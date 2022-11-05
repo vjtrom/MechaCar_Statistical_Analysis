@@ -24,5 +24,13 @@
 
 ![](https://github.com/vjtrom/MechaCar_Statistical_Analysis/blob/main/images/One-Sample_T-test.jpg)
 
-**briefly summarize your interpretation and findings for the t-test results. Include screenshots of the t-test to support your summary.**
+**Briefly summarize your interpretation and findings for the t-test results. Include screenshots of the t-test to support your summary.**
 - Based on the t test that compares PSI across all manufacturing lots, the alternative hypothesis is true because the mean of the lots is not equal to the population mean of 1498.78.
+
+## Study Design: MechaCar vs Competition
+
+**Write a short description of a statistical study that can quantify how the MechaCar performs against the competition**
+
+- Consumers might be interested in the MechaCar's performance against the competition in several areas, including cost, fuel efficiency, horse power, maintenance cost, and safety ratings. 
+- One statistical study would be to look at fuel efficiency, maintenance costs and purchase price of the vehicle and compare that to competitors. Estimating all of these costs and aggregating them into a metric called "Overall Costs" can help consumers make educated decisions across the compenents that make up the costs of owning and operating a vehicle.
+- In order to determine whether the "Overall Costs" of the MechaCar is better than it's competitors, you could use a combination of t-tests which would tell us if the mean "Overall Costs" are statistically and significantly better. You could also use multiple regression to predict whether the Overall Costs would be better depending upon changes in any one of the independent variables.
