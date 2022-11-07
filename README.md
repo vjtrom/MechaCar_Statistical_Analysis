@@ -22,10 +22,10 @@
 
 ## T-Tests on Suspension Coils
 
-![](https://github.com/vjtrom/MechaCar_Statistical_Analysis/blob/main/images/One-Sample_T-test.jpg)
+![](https://github.com/vjtrom/MechaCar_Statistical_Analysis/blob/main/images/Untitled%205.jpg)
 
 **Briefly summarize your interpretation and findings for the t-test results. Include screenshots of the t-test to support your summary.**
-- Based on the t test that compares PSI across all manufacturing lots, the alternative hypothesis is true because the mean of the lots is not equal to the population mean of 1498.78.
+- Based on the t test that compares PSI across all manufacturing lots, the alternative hypothesis is true because the mean of the lots is not equal to the population mean of 1500.
 
 ## Study Design: MechaCar vs Competition
 
